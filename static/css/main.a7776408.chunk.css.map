@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,UACE,YACF,CAEA,eACE,aACF","file":"main.a7776408.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.comments {\n  display: none;\n}\n\n.comments.show {\n  display: block;\n}\n"]}
